@@ -1,2 +1,2 @@
 console.log("rebase3");
-console.log("rebase6");
+console.log("rebase3");
